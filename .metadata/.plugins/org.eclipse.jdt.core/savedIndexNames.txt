@@ -1,4 +1,3 @@
 INDEX VERSION 1.130+C:\Users\mgalka\Documents\Programowanie\PPJ\.metadata\.plugins\org.eclipse.jdt.core
 2162006459.index
 4158302509.index
-1859385495.index
